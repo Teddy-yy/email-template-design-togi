@@ -1,0 +1,22 @@
+{
+  "name": "2.email-template-design-togi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass scss:assets/css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teddy-yy/email-template-design-togi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Teddy-yy/email-template-design-togi/issues"
+  },
+  "homepage": "https://github.com/Teddy-yy/email-template-design-togi#readme"
+}
